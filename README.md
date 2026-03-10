@@ -11,9 +11,12 @@ Telecom X enfrenta una alta tasa de cancelaciones mensuales. Este análisis busc
 ## 📂 Estructura del Proyecto
 ```text
 TelecomX-Churn-Analysis/
-├── TelecomX_Data.json                     # Datos consumidos vía API de GitHub
-├── Analisis_Churn_TelecomX.ipynb          # Notebook con el flujo ETL y EDA
-└── README.md                              # Descripción y guía del proyecto
+├── TelecomX_Data.json                                         # Datos consumidos vía API de GitHub
+├── Analisis_Churn_TelecomX.ipynb                              # Notebook con el flujo ETL y EDA
+├── Grafico_conteo-de-evasion-por-variables-numericas.png      # Gráfico
+├── Grafico_distribucion-de-evasion.png                        # Gráfico
+├── Grafico_recuento-de-evasion-por-variables-categoricas.png  # Gráfico
+└── README.md                                                  # Descripción y guía del proyecto
 
 ```
 
