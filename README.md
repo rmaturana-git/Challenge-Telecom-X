@@ -11,12 +11,9 @@ Telecom X enfrenta una alta tasa de cancelaciones mensuales. Este análisis busc
 ## 📂 Estructura del Proyecto
 ```text
 TelecomX-Churn-Analysis/
-├── data/
-│   └── (Datos consumidos vía API de GitHub)
-├── notebooks/
-│   └── Analisis_Churn_TelecomX.ipynb      # Notebook con el flujo ETL y EDA
-├── README.md                              # Descripción y guía del proyecto
-└── requirements.txt                       # Librerías necesarias para ejecución
+├── TelecomX_Data.json                     # Datos consumidos vía API de GitHub
+├── Analisis_Churn_TelecomX.ipynb          # Notebook con el flujo ETL y EDA
+└── README.md                              # Descripción y guía del proyecto
 
 ```
 
